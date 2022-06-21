@@ -1,9 +1,10 @@
 # Netflix Clone App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![alt text](http://url/to/img.png)
 
 ## Link
-[Netflix Clone](https://github.com/facebook/create-react-app)
+[Netflix Clone](https://netflix-clone-byluisacmn.netlify.app/)
 
 ## Tasks
 1. Get TMDB API key
