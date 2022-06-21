@@ -1,7 +1,8 @@
 # Netflix Clone App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-![alt text]([http://url/to/img.png](https://github.com/luisacmn/netflix-clone/blob/master/public/project-img.png?raw=true))
+
+![alt text](https://github.com/luisacmn/netflix-clone/blob/master/public/project-img.png?raw=true)
 
 ## Link
 [Netflix Clone](https://netflix-clone-byluisacmn.netlify.app/)
